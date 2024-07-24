@@ -1,0 +1,68 @@
+[
+    {
+      "id": "0x9d7358fc091de12a2146df6aa25c9c7ca546f3a3",
+      "name": "FED RATE CUT",
+      "desc": "0An interest rate cut by the Fed by Sept 30?",
+      "image": "/images/3.png",
+      "yes": "Yes",
+      "no": "No",
+      "type": "finance",
+      "detail": "🔍 If the fed funds rate is cut by Sept 30 2024, 08:00 UTC, Yes win! Otherwise, No deal. 📣 The Fed has the final word. Credible reports can be used.",
+      "imageIndex": 0
+    },
+    {
+      "id": "0x583f77cc1cf7d3cd3aa0d933399ce73267377a7c",
+      "name": "Spain VS France",
+      "desc": "Who will advance to the UEFA Final? ",
+      "image": "/images/4.png",
+      "yes": "Spain",
+      "no": "France",
+      "type": "sports",
+      "detail": "If Spain wins the game and advances to the final, the market will resolve to Spain, otherwise, the market will resolve to France. ",
+      "imageIndex": 1
+    },
+    {
+      "id": "0xa2fe6d0b30af83fd6623d58eabf4e0c316ba49f7",
+      "name": "England VS Netherlands",
+      "desc": "Who will advance to the UEFA Final?",
+      "image": "/images/4.png",
+      "yes": "England",
+      "no": "Netherlands",
+      "type": "sports",
+      "detail": "If Spain wins the game and advances to the final, the market will resolve to Spain, otherwise, the market will resolve to Netherlands. ",
+      "imageIndex": 2
+    },
+    {
+      "id": "0x4bfff580e9c79d43fa5235dc3919ea9dd8d6315e",
+      "name": "Spain VS England",
+      "desc": "Who will be the UEFA Champion?",
+      "image": "/images/4.png",
+      "yes": "Spain",
+      "no": "England",
+      "type": "sports",
+      "detail": "If Spain wins the game, the market will resolve to Spain, otherwise, the market will resolve to England.",
+      "imageIndex": 3
+    },
+    {
+      "id": "0x03e757aae0731a5e5b452d8f217b815f654111fb",
+      "name": "BTC ATH",
+      "desc": "BTC Reaches All Time High by Aug 30?",
+      "image": "/images/5.png",
+      "yes": "Yes",
+      "no": "No",
+      "type": "crypto",
+      "detail": "🔍 If BTCUSD reaches ATH by Aug 30 2024, 08:00 UTC, Yes win! Otherwise, No deal. 📣 Prices will be determined by the decentralized oracles.",
+      "imageIndex": 0
+    },
+    {
+      "id": "0xc3d319b73361368e88d003da06f8881e5b5d1ba7",
+      "name": "ETH ATH",
+      "desc": "ETH Reaches All Time High by Aug 30?",
+      "image": "/images/6.png",
+      "yes": "Yes",
+      "no": "No",
+      "type": "crypto",
+      "detail": "🔍 If ETHUSD reaches ATH by Aug 30 2024, 08:00 UTC, Yes win! Otherwise, No deal. 📣 Prices will be determined by the decentralized oracles.",
+      "imageIndex": 3
+    }
+  ]
