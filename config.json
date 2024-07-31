@@ -87,7 +87,7 @@
     "id": "0xd50a2c607d0e80761d1635ef8b8e4b78eed9653c",
     "name": "USA Men’s Basketball",
     "desc": "Can the USA men's basketball team win a fifth consecutive championship?",
-    "image": "/images/8.jpg",
+    "image": "/images/8.png",
     "yes": "Yes",
     "no": "No",
     "type": "sports",
