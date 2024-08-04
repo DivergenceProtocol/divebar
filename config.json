@@ -1,8 +1,8 @@
 [
   {
-    "id": "0x3356f1334e88F3bbf820bB1b62A89d81BE26cDF9",
+    "id": "0x3356f1334e88f3bbf820bb1b62a89d81be26cdf9",
     "name": "FED RATE CUT",
-    "desc": "0An interest rate cut by the Fed by Sept 30?",
+    "desc": "An interest rate cut by the Fed by Sept 30?",
     "image": "/images/3.png",
     "yes": "Yes",
     "no": "No",
