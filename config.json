@@ -1,6 +1,6 @@
 [
   {
-    "id": "0x9d7358fc091de12a2146df6aa25c9c7ca546f3a3",
+    "id": "0x3356f1334e88F3bbf820bB1b62A89d81BE26cDF9",
     "name": "FED RATE CUT",
     "desc": "0An interest rate cut by the Fed by Sept 30?",
     "image": "/images/3.png",
@@ -8,8 +8,8 @@
     "no": "No",
     "type": "finance",
     "detail": "🔍 If the fed funds rate is cut by Sept 30 2024, 08:00 UTC, Yes win! Otherwise, No deal. 📣 The Fed has the final word. Credible reports can be used.",
-    "twitter_yes_desc": "Yes!!! I'm in for a Fed rate cut by Mar 31! \uD83C\uDFAF @divergencedefi",
-    "twitter_no_desc": "No!!! I'm skeptical about a Fed rate cut by Mar 31! \uD83E\uDD37@divergencedefi"
+    "twitter_yes_desc": "Yes!!! I'm in for a Fed rate cut by Sept 30! \uD83C\uDFAF @divergencedefi",
+    "twitter_no_desc": "No!!! I'm skeptical about a Fed rate cut by Sept 30! \uD83E\uDD37@divergencedefi"
   },
   {
     "id": "0x583f77cc1cf7d3cd3aa0d933399ce73267377a7c",
